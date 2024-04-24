@@ -1,0 +1,7 @@
+Flask
+requests
+json5
+g4f
+free-proxy
+loguru
+uvicorn
